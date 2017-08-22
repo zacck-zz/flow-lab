@@ -1,0 +1,15 @@
+{
+  "name": "flow-codelab",
+  "version": "0.0.1",
+  "description": "Codelab for using flow ",
+  "main": "index.js",
+  "repository": "https://github.com/zacck/flow-lab.git",
+  "author": "Zacck Osiemo <coderv63@gmail.com> (http://zacck.github.io)",
+  "license": "MIT",
+  "scripts": {
+	"flow": "flow"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.53.1"
+  }
+}
